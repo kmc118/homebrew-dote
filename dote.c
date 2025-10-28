@@ -86,7 +86,7 @@
             }
             printf("\n");
         }
-        usleep(100000);
+        usleep(75000);
     }
 
     void main(){
